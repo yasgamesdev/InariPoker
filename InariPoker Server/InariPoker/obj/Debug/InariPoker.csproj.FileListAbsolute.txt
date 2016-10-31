@@ -1,0 +1,14 @@
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\InariPoker.exe.config
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\InariPoker.exe
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\InariPoker.pdb
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\Lidgren.Network.dll
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\protobuf-net.dll
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\UnityEngine.dll
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\Lidgren.Network.pdb
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\Lidgren.Network.xml
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\protobuf-net.pdb
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\protobuf-net.xml
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\bin\Debug\UnityEngine.xml
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\obj\Debug\InariPoker.csprojResolveAssemblyReference.cache
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\obj\Debug\InariPoker.exe
+C:\Users\Yas\dev\C#\InariPoker\InariPoker\obj\Debug\InariPoker.pdb

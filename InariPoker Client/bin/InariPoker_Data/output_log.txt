@@ -1,0 +1,180 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.934890 ms
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.624896 ms
+<RI> Initialized touch support.
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.859751 ms
+<RI> Initialized touch support.
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+UnloadTime: 1.392140 ms
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.083 seconds
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\Lidgren.Network.dll into Unity Child Domain
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.106 seconds
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yas\dev\unity\InariPoker\bin\InariPoker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 1.195421 ms
+<RI> Initialized touch support.
+UnloadTime: 1.717615 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 318c -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3198 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 31e4 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3020 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 32e0 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3398 -> priority: 1 
